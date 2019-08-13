@@ -1,0 +1,11 @@
+C:\Users\Andre\Documents\Ulbra\Decimo segundo semestre\aula02\bin\Debug\netcoreapp2.2\aula02.deps.json
+C:\Users\Andre\Documents\Ulbra\Decimo segundo semestre\aula02\bin\Debug\netcoreapp2.2\aula02.runtimeconfig.json
+C:\Users\Andre\Documents\Ulbra\Decimo segundo semestre\aula02\bin\Debug\netcoreapp2.2\aula02.runtimeconfig.dev.json
+C:\Users\Andre\Documents\Ulbra\Decimo segundo semestre\aula02\bin\Debug\netcoreapp2.2\aula02.dll
+C:\Users\Andre\Documents\Ulbra\Decimo segundo semestre\aula02\bin\Debug\netcoreapp2.2\aula02.pdb
+C:\Users\Andre\Documents\Ulbra\Decimo segundo semestre\aula02\obj\Debug\netcoreapp2.2\aula02.csprojAssemblyReference.cache
+C:\Users\Andre\Documents\Ulbra\Decimo segundo semestre\aula02\obj\Debug\netcoreapp2.2\aula02.csproj.CoreCompileInputs.cache
+C:\Users\Andre\Documents\Ulbra\Decimo segundo semestre\aula02\obj\Debug\netcoreapp2.2\aula02.AssemblyInfoInputs.cache
+C:\Users\Andre\Documents\Ulbra\Decimo segundo semestre\aula02\obj\Debug\netcoreapp2.2\aula02.AssemblyInfo.cs
+C:\Users\Andre\Documents\Ulbra\Decimo segundo semestre\aula02\obj\Debug\netcoreapp2.2\aula02.dll
+C:\Users\Andre\Documents\Ulbra\Decimo segundo semestre\aula02\obj\Debug\netcoreapp2.2\aula02.pdb
