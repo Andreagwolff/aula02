@@ -2,8 +2,8 @@ namespace aula02
 {
     public class Clientes
     {
-        string Nome;
-        int Cod;
+        public string Nome;
+        public int Cod;
         
     }
 }

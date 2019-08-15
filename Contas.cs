@@ -4,11 +4,11 @@ namespace aula02
 {
     public  class Contas
     {
-        int NumeroConta;
+        public int NumeroConta;
 
-        double Saldo;
-        double Limite;
-    public double Limite = 100;
+        public double Saldo;
+        public double Limite;
+    
      
     }
      
